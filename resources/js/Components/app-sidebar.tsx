@@ -26,7 +26,7 @@ export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
         },
         teams: [
             {
-                name: "Square Dev",
+                name: "Square Devs",
                 logo: GalleryVerticalEnd,
                 plan: "Super Admin",
             },
